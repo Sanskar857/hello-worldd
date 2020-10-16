@@ -1,2 +1,2 @@
-# hello-worldd
-hello to all of u
+# Hello-World
+Hello to all of you
